@@ -1,4 +1,4 @@
-# Sales Performance Dashboard
+# Performance Dashboard 
 
 ## Overview
 This project is a sales dashboard built using Tableau to analyze business performance across regions, categories, and time.
